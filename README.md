@@ -1,5 +1,7 @@
 # Aula Teste
 
+![Banner anime original em tons suaves](assets/anime-banner.svg)
+
 Projeto de prática em Python criado durante os estudos de Desenvolvimento de Sistemas.
 
 ## O que existe
